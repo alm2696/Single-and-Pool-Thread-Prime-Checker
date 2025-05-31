@@ -1,1 +1,1 @@
-# Single-and-Pool-Thread-Prime-Checker
+# Single_Pool-Thread-Prime-Checker
